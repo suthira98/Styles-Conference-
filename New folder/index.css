@@ -1,0 +1,132 @@
+body {
+  background: #293f50;
+  color: #888;
+  font: 300 16px/22px "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.uph{
+  display: inline-block;
+  float: left; 
+}
+
+.uph a{
+  text-decoration: none;
+  font-family: "Corbel Light";
+  font-size: 250%;
+}
+
+.up{
+  float: right;
+}
+
+.up a{
+  text-decoration: none;
+}
+
+.up h3{
+  color: #648880;
+  font-family: "Bradley Hand ITC";
+}
+
+.primary-header a,
+.primary-footer a {
+  color: #fff;
+}
+.primary-header a:hover,
+.primary-footer a:hover {
+  color: #648880;
+}
+
+.primary-header h1{
+  font-family: "Bahnschrift SemiLight Condensed";
+}
+
+
+.primary-footer{
+  clear: both;
+}
+
+.hero {
+  clear: both;
+  color: #fff;
+  line-height: 44px;
+  padding: 22px 80px 66px 80px;
+  text-align: center;
+  font-size: 30px;
+}
+
+.hero h2{
+  font-size: 50px;
+  color: #648880;
+  font-family: "Comic Sans MS";
+}
+
+.btn {
+	border-style: solid;
+	border-color: #fff;
+	padding: 5px;
+  border-radius: 5px;
+  color: #fff;
+  cursor: pointer;
+  display: inline-block;
+  font-weight: 400;
+  letter-spacing: .5px;
+  margin: 0;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #ffffff;
+  color: #648880;
+}
+
+.btn:focus{
+background: #B3B3B3;
+color: #0006CC;
+}
+
+.btn:active{
+  border: 3px solid #000000
+}
+
+
+.row {
+  background: #fff;
+  color: #134f5e;
+}
+
+.teaser{
+background: #fff;
+width: 33.333%;
+height: 200px;
+display: inline-block;
+float: left;
+background: radial-gradient(#ffffff, #65949c);
+}
+
+.teaser h3{
+color: #888;
+}
+
+.teaser h5{
+color: #1c3238;
+}
+
+.teaser a{
+  text-decoration: none;
+}
+
+.notice-success {
+  background: url("tick.png") 20px 50% no-repeat, linear-gradient(#71a4c9, #466368);
+  border: 2px solid #095c70;
+  border-radius: 15px;
+  color: #fff;
+  font-family: "Helvetica Neue", "Helvetica, Arial", sans-serif;
+  padding: 15px 20px 15px 50px;
+}
+
+.bottom a{
+  text-decoration: none;
+}
+

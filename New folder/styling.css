@@ -1,0 +1,81 @@
+body {
+  background: #293f50;
+  color: #888;
+  font: 300 16px/22px "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.logo{
+  display: inline-block;
+  float: left; 
+}
+
+.logo a{
+  text-decoration: none;
+  font-family: "Corbel Light";
+  font-size: 500%;
+}
+
+.up{
+  float: right;
+}
+
+.up .tagline{
+  color: #ffffff;
+}
+
+.up a{
+  text-decoration: none;
+}
+
+.up h3{
+  color: #648880;
+  font-family: "Bradley Hand ITC";
+}
+
+.hero {
+  clear: both;
+  color: #888;
+  line-height: 44px;
+  padding: 22px 0px 300px 0px; 
+  background: linear-gradient(to right, #a1d3b0, #f6f1d3);
+  text-align: center;
+  font-size: 30px;
+}
+
+.hero h1{
+  font-size: 50px;
+  color: #648880;
+  font-family: "Comic Sans MS";
+}
+
+.primary-header a,
+.primary-footer a {
+  color: #fff;
+}
+.primary-header a:hover,
+.primary-footer a:hover {
+  color: #648880;
+}
+
+.primary-header h1{
+  font-family: "Bahnschrift SemiLight Condensed";
+}
+
+
+.primary-footer{
+  clear: both;
+}
+
+.lead {
+  text-align: center;
+}
+.lead p {
+  font-size: 21px;
+  line-height: 33px;
+}
+
+}
+
+.bottom a{
+  text-decoration: none;
+}
